@@ -4,7 +4,7 @@ title: Destrezas
 author: Aigaje Alexis 
 
 
-date: 2020-10-01 13:56 +0800
+
 ---
 En el trascurso de mi vida he adquirido diferentes destrezas
 
