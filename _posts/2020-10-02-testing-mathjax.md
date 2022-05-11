@@ -2,7 +2,6 @@
 layout: post
 title:  Estudios
 
-date: 2020-01-01 15:32 +0800
 
 ---
 Mi objetivo profesional se ajusta a las necesidades de crecimiento y mejoramiento
